@@ -29,6 +29,8 @@ int main()
         printf("The sum value of the above sequence is:\n%d\n",sum);
         printf("===========================================\n");
     }
-    return 0;
+		
+	printf("==================END======================\n");    
+	return 0;
 
 }
